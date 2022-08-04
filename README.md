@@ -1,16 +1,18 @@
-### Hi there 👋
+### HOLA, BIENVENIDO A MI GITHUB, CHECA LOS DIFERENTES PROYECTOS DESTACADOS, ESPERO QUE TE GUSTEN :3 👋
 
-<!--
-**Edier-Gama/Edier-Gama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ¿QUIÉN SOY?
 
-Here are some ideas to get you started:
+Mi nombre es Edier Santiago Gama, soy de Bogotá - Colombia, y soy frontend y backend developer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ¿QUÉ LENGUAJES Y HERRAMIENTAS MANEJAS EN EL FRONT?
+
+LENGUAJES : Javascript - Nivel Intermedio/avanzado
+"LENGUAJES DE MARCADO Y ESTILOS" : Html, CSS 
+LIBRERIAS Y FRAMEWORKS: React y Angular
+HERRAMIENTAS: SASS, BOOTSTRAP
+
+
+### ¿QUÉ LENGUAJES Y HERRAMIENTAS MANEJAS EN EL BACK?
+
+LENGUAJES: Python (Avanzado), PHP (Básico, Intermedio)
+LIBRERIAS: Flask, Laravel, Django
