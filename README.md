@@ -1,4 +1,6 @@
-### HOLA, BIENVENIDO A MI GITHUB, CHECA LOS DIFERENTES PROYECTOS DESTACADOS, ESPERO QUE TE GUSTEN :3 👋
+### HOLA, BIENVENIDO A MI GITHUB 👋
 
-Mi nombre es Edier Santiago Gama, soy de Bogotá - Colombia, y soy frontend y backend developer
+Mi nombre es Edier Santiago Gama y soy frontend y backend developer
+
+Ubicación: Bogotá - Colombia
 
