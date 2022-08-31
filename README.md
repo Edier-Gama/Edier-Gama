@@ -11,13 +11,13 @@
 
 - 🌱 Actualmente estudio en Platzi la escuela de desarrollo web y la escuela de backend developer con Python **React, FastAPI, Vue, NestJS, Flask**
 
-- 👨‍💻 Portafolio profesional [https://edier-gama.github.io/ediergama.com/](https://edier-gama.github.io/ediergama.com/)
+- 👨‍💻 Portafolio profesional: [https://edier-gama.github.io/ediergama.com/](https://edier-gama.github.io/ediergama.com/)
 
-- 📝 Suelo usar bastante Twitter para compartir mis opiniones :D [www.twitter.com/edier_gama](www.twitter.com/edier_gama)
+- 📝 Suelo usar bastante Twitter para compartir mis opiniones: [www.twitter.com/edier_gama](www.twitter.com/edier_gama)
 
 - 📫 Puedes contactarme por correo: **ediersantiago7@gmail.com**
 
-- ⚡ Fun fact **NUNCA PARO DE APRENDER**
+- ⚡ **NUNCA PARO DE APRENDER**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
