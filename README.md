@@ -23,7 +23,7 @@
 <h3 align="left">REDES SOCIALES:</h3>
 <p align="left">
 <a href="https://twitter.com/edier_gama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="edier_gama" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/edier-gama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edier-gama" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/mwlite/in/edier-gama-2018a622b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="edier-gama" height="30" width="40" /></a>
 <a href="https://instagram.com/edier_gama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="edier_gama" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/edier gama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="edier gama" height="30" width="40" /></a>
 </p>
