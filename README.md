@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/edier_gama" target="blank"><img src="https://img.shields.io/twitter/follow/edier_gama?logo=twitter&style=for-the-badge" alt="edier_gama" /></a> </p>
 
-- 🌱 Actualmente estudio en Platzi la escuela de desarrollo web y la escuela de backend developer con Python **React, FastAPI, Vue, NestJS, Flask**
+- 🌱 Actualmente estudio en Platzi la escuela de desarrollo web y la escuela de backend developer con Python, algunos frameworks y librerías que manejo son: **React, FastAPI, Vue, NestJS, Flask**
 
 - 👨‍💻 Portafolio profesional: [https://edier-gama.github.io/ediergama.com/](https://edier-gama.github.io/ediergama.com/)
 
