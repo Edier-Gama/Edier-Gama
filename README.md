@@ -1,5 +1,5 @@
-<h1 aling="center">Hola 👋, Soy Edier Santiago Gama<h1>
-<h2 aling="center"> Soy un fullstack developer oriundo de Bogotá - Colombia :)<h2> 
+## **Hola👋, Soy Edier Santiago Gama**
+**Soy un fullstack developer oriundo de Bogotá - Colombia :)**
 
 - 🌱 Actualmente estudio en Platzi la escuela de desarrollo web y la escuela de backend developer con Python, algunos frameworks y librerías que estoy estudiando son: **React, FastAPI, Vue, NestJS, Flask**
 
