@@ -1,12 +1,12 @@
-## Hola 👋, Soy Edier Santiago Gama
-## Soy un fullstack developer oriundo de Bogotá - Colombia :)
+<p text-aling = 'center'>Hola 👋, Soy Edier Santiago Gama <p>
+## Soy un fullstack developer oriundo de Bogotá - Colombia :) <p align="left"> <a href="https://twitter.com/edier_gama" target="blank"><img src="https://img.shields.io/twitter/follow/edier_gama?logo=twitter&style=for-the-badge" alt="edier_gama" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edier-gama&show_icons=true&locale=en&layout=compact" alt="edier-gama" /></p> <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edier-gama&show_icons=true&locale=en" alt="edier-gama" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=edier-gama&show_icons=true&locale=en" alt="edier-gama" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=edier-gama&show_icons=true&locale=en&layout=compact" alt="edier-gama" /></p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edier-gama&label=Profile%20views&color=0e75b6&style=flat" alt="edier-gama" /> </p>
 
-<p align="left"> <a href="https://twitter.com/edier_gama" target="blank"><img src="https://img.shields.io/twitter/follow/edier_gama?logo=twitter&style=for-the-badge" alt="edier_gama" /></a> </p>
 
 - 🌱 Actualmente estudio en Platzi la escuela de desarrollo web y la escuela de backend developer con Python, algunos frameworks y librerías que estoy estudiando son: **React, FastAPI, Vue, NestJS, Flask**
 
