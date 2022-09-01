@@ -1,5 +1,5 @@
-<h1 aling= "center">Hola 👋, Soy Edier Santiago Gama <h1>
-<h2 aling= "center"> Soy un fullstack developer oriundo de Bogotá - Colombia :)<h2> 
+<h1 aling="center">Hola 👋, Soy Edier Santiago Gama<h1>
+<h2 aling="center"> Soy un fullstack developer oriundo de Bogotá - Colombia :)<h2> 
 
 - 🌱 Actualmente estudio en Platzi la escuela de desarrollo web y la escuela de backend developer con Python, algunos frameworks y librerías que estoy estudiando son: **React, FastAPI, Vue, NestJS, Flask**
 
@@ -12,8 +12,8 @@
 - ⚡ **NUNCA PARO DE APRENDER**
 
 
-##Twitter: <p align="left"> <a href="https://twitter.com/edier_gama" target="blank"><img src="https://img.shields.io/twitter/follow/edier_gama?logo=twitter&style=for-the-badge" alt="edier_gama" /></a> </p>
-##Visitas a mi perfil: <p align="left"> <img src="https://komarev.com/ghpvc/?username=edier-gama&label=Profile%20views&color=0e75b6&style=flat" alt="edier-gama" /> </p>
+<p align="left"> <a href="https://twitter.com/edier_gama" target="blank"><img src="https://img.shields.io/twitter/follow/edier_gama?logo=twitter&style=for-the-badge" alt="edier_gama" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=edier-gama&label=Profile%20views&color=0e75b6&style=flat" alt="edier-gama" /> </p>
 
 <h3 align="left">REDES SOCIALES:</h3>
 <p align="left">
