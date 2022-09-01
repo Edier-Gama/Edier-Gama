@@ -1,5 +1,5 @@
-<h1 align="center">Hola 👋, Soy Edier Santiago Gama</h1>
-<h3 align="center">Soy un fullstack developer oriundo de Bogotá - Colombia :)</h3>
+## Hola 👋, Soy Edier Santiago Gama
+## Soy un fullstack developer oriundo de Bogotá - Colombia :)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=edier-gama&show_icons=true&locale=en&layout=compact" alt="edier-gama" /></p>
 
@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://twitter.com/edier_gama" target="blank"><img src="https://img.shields.io/twitter/follow/edier_gama?logo=twitter&style=for-the-badge" alt="edier_gama" /></a> </p>
 
-- 🌱 Actualmente estudio en Platzi la escuela de desarrollo web y la escuela de backend developer con Python, algunos frameworks y librerías que manejo son: **React, FastAPI, Vue, NestJS, Flask**
+- 🌱 Actualmente estudio en Platzi la escuela de desarrollo web y la escuela de backend developer con Python, algunos frameworks y librerías que estoy estudiando son: **React, FastAPI, Vue, NestJS, Flask**
 
 - 👨‍💻 Portafolio profesional: [https://edier-gama.github.io/ediergama.com/](https://edier-gama.github.io/ediergama.com/)
 
