@@ -1,3 +1,3 @@
-## **Hola👋 Soy Edie Gama**
+## **Hola👋 Soy Edier Gama**
 **Software Engineer**
 
